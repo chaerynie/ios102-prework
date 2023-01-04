@@ -4,7 +4,7 @@
 
 ### App Walk-though
 
-<img src="PreworkDemo.gif" width=500><br>
+<img src="PreworkDemo.gif" width=300><br>
 
 ### Required Features
 
