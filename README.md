@@ -21,4 +21,4 @@
 
 - [ ] 1. User can tap a button to change the color of the background view
 - [ ] 3. User can select on additional buttons that provide more info about the user (favorite color)
-- [ ] 4. Any stylistic changes that are not default options (background color changed to selected favorite color, font, layout)
+- [ ] 4. Any stylistic changes that are not default options (font, layout)
